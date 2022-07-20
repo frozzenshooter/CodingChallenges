@@ -2,6 +2,11 @@ package com.coding.challenges.array;
 
 import java.util.ArrayDeque;
 
+/**
+ * Task: Find the max in each subarray, called window, and return an array with all max values
+ *
+ * Note: this is not the most efficient solution
+ */
 public class MaxSlidingWindow {
 
 

@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="575d1c52-161c-484e-bcfb-9a6d684aef95" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/challenges/array/MaxSlidingWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/coding/challenges/array/MaxSlidingWindowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/coding/challenges/array/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/coding/challenges/array/RemoveDuplicatesTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/coding/challenges/array/MaxSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/coding/challenges/array/MaxSlidingWindow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <recent name="com.coding.challenges.array" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MaxSlidingWindowTest.maxSlidingWindow">
+  <component name="RunManager" selected="JUnit.RemoveDuplicatesTest.removeDuplicates">
     <configuration name="MaxAreaTest.maxArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingChallenges" />
       <extension name="coverage">
@@ -89,6 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoveDuplicatesTest.removeDuplicates" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CodingChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coding.challenges.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coding.challenges.array" />
+      <option name="MAIN_CLASS_NAME" value="com.coding.challenges.array.RemoveDuplicatesTest" />
+      <option name="METHOD_NAME" value="removeDuplicates" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSumTest.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CodingChallenges" />
       <extension name="coverage">
@@ -107,6 +124,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicates" />
         <item itemvalue="JUnit.MaxSlidingWindowTest.maxSlidingWindow" />
         <item itemvalue="JUnit.MaxAreaTest.maxArea" />
         <item itemvalue="JUnit.TwoSumTest.twoSum" />
@@ -121,7 +139,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658314583492</updated>
-      <workItem from="1658314587156" duration="10591000" />
+      <workItem from="1658314587156" duration="14392000" />
     </task>
     <servers />
   </component>
