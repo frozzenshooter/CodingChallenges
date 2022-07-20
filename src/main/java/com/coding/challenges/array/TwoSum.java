@@ -2,11 +2,11 @@ package com.coding.challenges.array;
 
 import org.jetbrains.annotations.NotNull;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Set;
-import java.util.stream.IntStream;
 
+/**
+ * Task: Find the indices of the integers in the array that sum up to the target int (using only two of the integers of the array and not using the same integer twice)
+ */
 public class TwoSum {
 
     private static HashSet<Integer> convert(int[] array)
